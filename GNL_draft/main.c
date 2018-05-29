@@ -16,7 +16,5 @@ int		main(int argc, char **argv)
 		ft_putstr(line);
 		ft_putchar('\n');
 	}
-	free(line);
-	while (1);
 	return (0);
 }
